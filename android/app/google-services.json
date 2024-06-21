@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "393719835330",
+    "project_id": "app-marketing-e876d",
+    "storage_bucket": "app-marketing-e876d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393719835330:android:41e6d226ea87b29755a95b",
+        "android_client_info": {
+          "package_name": "com.millenium.marketing2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393719835330-6m2b54l936475uiqr8rtbak10m06uk7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millenium.marketing2021",
+            "certificate_hash": "b333eefb4c8088f2df57dbf644d38edd01ff5426"
+          }
+        },
+        {
+          "client_id": "393719835330-88aqfjgnolurktune5ateer8e9hft0bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millenium.marketing2021",
+            "certificate_hash": "0636bf1258b491afca990b719a9874080997a714"
+          }
+        },
+        {
+          "client_id": "393719835330-c4vt53u4css8j99gvhevkgikuj326rq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millenium.marketing2021",
+            "certificate_hash": "88e909f0b75c25cb7865a0f3495524c77f3df9b2"
+          }
+        },
+        {
+          "client_id": "393719835330-ins4jnte39b7adjc5lohjctoj216jd2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millenium.marketing2021",
+            "certificate_hash": "e93d0b287eed77178228d83cd40bba24e38efd15"
+          }
+        },
+        {
+          "client_id": "393719835330-u2oq3d238ngtrerrkdphur9b21hf9u9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.millenium.marketing2021",
+            "certificate_hash": "f02c3dda03f2da709b22e57b5c829cc0937132af"
+          }
+        },
+        {
+          "client_id": "393719835330-kra7v70fnvq5udebjmlabkadkmjl2n69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSTlfLB-DsaUPrbIE4vVluTcjx-52CTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393719835330-7rqubaoh6mqoqgrq6aj5relkjfjt92b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393719835330-alrdb0440jotentab52k5mu3ce4kh64m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.millenium.ganhardinheiro"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9311012556587578~5815144288"
+    }
+  ],
+  "configuration_version": "1"
+}
